@@ -7,3 +7,9 @@ a{
     color: white;
     background-color: black;
 }
+a:hover{
+    color: aquamarine;
+}
+a:visited{
+    color: red;
+}
