@@ -1,3 +1,3 @@
 $(".btn").on("click", function () {
-    $("div").toggleClass("background")
+    $("div").addClass("background")
 })
